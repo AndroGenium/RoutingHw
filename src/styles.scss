@@ -1,1 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
+p{
+    font-size: 60px;
+}
+
+
+ul{
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+}
+li{
+    cursor: pointer;
+    font-size: 50px;
+}
